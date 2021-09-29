@@ -1,17 +1,21 @@
-It was the best of times
-it was the worst of times
-it was the age of wisdom
-it was the age of foolishness
-it was the epoch of belief
-it was the epoch of incredulity
-it was the season of Light
-it was the season of Darkness
-it was the spring of hope
-it was the winter of despair
-we had everything before us
-we had nothing before us
-we were all going direct to Heaven
-we were all going direct the other way
-in short the period was so far like the present period that some of
-its noisiest authorities insisted on its being received for good or for
-evil in the superlative degree of comparison only
+The Zen of Python, by Tim Peters
+
+Beautiful is better than ugly.
+Explicit is better than implicit.
+Simple is better than complex.
+Complex is better than complicated.
+Flat is better than nested.
+Sparse is better than dense.
+Readability counts.
+Special cases aren't special enough to break the rules.
+Although practicality beats purity.
+Errors should never pass silently.
+Unless explicitly silenced.
+In the face of ambiguity, refuse the temptation to guess.
+There should be one-- and preferably only one --obvious way to do it.
+Although that way may not be obvious at first unless you're Dutch.
+Now is better than never.
+Although never is often better than *right* now.
+If the implementation is hard to explain, it's a bad idea.
+If the implementation is easy to explain, it may be a good idea.
+Namespaces are one honking great idea -- let's do more of those!
